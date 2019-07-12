@@ -1,0 +1,1 @@
+<img width="2560" src="/local/templates/.default/images/img_avto/3.jpg" height="707">
